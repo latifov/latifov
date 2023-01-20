@@ -1,11 +1,16 @@
-### Hi there 👋
 
+<div id="header" align="center">
+  <div><img src="https://media.giphy.com/media/cBzXJ1ronC6HQJZzg0/giphy.gif" width="480"/></div>
+  <h2>Hi there 👋</h2>
+  <div><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
+  </div>
+- 👨‍💻 I’m currently working on 🍄<a href="https://mario.birlink.click/">Marioclub website</a> by <a href="https://www.youtube.com/@NetNinja">The Net Ninja</a>🍄
 <!--
 **latifov/latifov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
