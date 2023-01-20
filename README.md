@@ -1,7 +1,6 @@
-
 <div id="header" align="center">
-  <div><img src="https://media.giphy.com/media/cBzXJ1ronC6HQJZzg0/giphy.gif" width="480"/></div>
   <h2>Hi there 👋</h2>
+  <div style><img src="https://media.giphy.com/media/cBzXJ1ronC6HQJZzg0/giphy.gif" width="480"/></div>
   <div><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
   </div>
 - 👨‍💻 I’m currently working on 🍄<a href="https://mario.birlink.click/">Marioclub website</a> by <a href="https://www.youtube.com/@NetNinja">The Net Ninja</a>🍄
