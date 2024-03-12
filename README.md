@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div><img src="https://t3.ftcdn.net/jpg/03/89/81/98/360_F_389819823_QoNoJpCN1I8geGVPR4pHqmSRhUti6aAN.jpg" width="350"/></div>
+  <div><img src="[https://t3.ftcdn.net/jpg/03/89/81/98/360_F_389819823_QoNoJpCN1I8geGVPR4pHqmSRhUti6aAN.jpg](https://raw.githubusercontent.com/Ndiuky/Ndiuky/main/assets/github-snake.svg)" width="350"/></div>
     <h2>Hi there 👋</h2>
   <div><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
   </div>
